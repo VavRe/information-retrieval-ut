@@ -1,0 +1,21 @@
+{
+        "inputPath" : "./inputData/documents.trectxt",
+        "indexPath" : "./myindex",
+        "stemmer"    : "porter" ,
+        // "server": true,
+        // "port" : 8701,
+        // "galagoJobDir" : "/tmp/galago", 
+        // "deleteJobDir" : false, 
+        // "fieldIndex"   : true,
+        // "tokenizer"    : {
+            "fields"  : [ "field", "first", "second", "head", "dateline","text" ],
+            "formats" : {
+            "field"    : "string",
+            "first"   : "string",
+            "dateline" : "string",
+            "second"     : "date",
+            "text"     : "float",
+            "head"     : "float"
+            },
+        }
+}

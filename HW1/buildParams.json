@@ -1,0 +1,14 @@
+{
+        "fileType"     : "trectext",
+        "inputPath" : "./inputData/documents.trectxt",
+        "indexPath" : "./myindex",
+        "server":true,
+        "port":8000,
+        "stemmer"    : ["porter"],
+        "tokenizer"    : {
+                "fields"  : [ "text" ],
+                "formats" : {
+                "text"     : "string"
+                }
+            }
+}
