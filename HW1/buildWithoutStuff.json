@@ -1,0 +1,6 @@
+{
+        "fileType"     : "trectext",
+        "inputPath" : "./inputData/documents.trectxt",
+        "indexPath" : "./simpleIndex"
+
+}
