@@ -1,0 +1,4 @@
+{
+    "judgments" : "./inputData/relevance.txt",
+    "baseline" : "results.txt"
+}
