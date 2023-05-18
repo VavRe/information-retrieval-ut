@@ -1,0 +1,4 @@
+{
+    "index" : "./myindex",
+    "operatorWrap" : "bm25"
+}

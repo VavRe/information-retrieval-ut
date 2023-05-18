@@ -1,0 +1,5 @@
+MAP                             all    0.28083
+P5                              all    0.60521
+NDCG                            all    0.47624
+num_rel                         all 104698.00000
+num_rel_ret                     all 4434.00000

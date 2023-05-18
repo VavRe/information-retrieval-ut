@@ -1,0 +1,5 @@
+{
+    "index" : "./myindex",
+    "scorer":"bm25v3",
+    "requested":10,
+}

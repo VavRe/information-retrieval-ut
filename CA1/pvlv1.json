@@ -1,0 +1,5 @@
+{
+    "index" : "./myindex",
+    "scorer":"pvlv1",
+    "requested":10,
+}
